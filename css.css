@@ -1,0 +1,20 @@
+body {
+  max-width: 1366px;
+  font-family: 'Asap', sans-serif;
+  background-color: grey;
+}
+
+
+.bttn {
+  margin: 25% 35% 5% 35%;
+  width: 30%;
+  height: 70px;
+  font-size: 30px;
+}
+
+
+.successful {
+  color: lightgreen;
+  text-align: center;
+  margin-top: 10%;
+}
